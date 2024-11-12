@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redsita/static/css/main.33b39518.css",
+    "main.js": "/redsita/static/js/main.8eb64cfc.js",
+    "static/js/453.2accbebf.chunk.js": "/redsita/static/js/453.2accbebf.chunk.js",
+    "index.html": "/redsita/index.html",
+    "main.33b39518.css.map": "/redsita/static/css/main.33b39518.css.map",
+    "main.8eb64cfc.js.map": "/redsita/static/js/main.8eb64cfc.js.map",
+    "453.2accbebf.chunk.js.map": "/redsita/static/js/453.2accbebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b39518.css",
+    "static/js/main.8eb64cfc.js"
+  ]
+}
